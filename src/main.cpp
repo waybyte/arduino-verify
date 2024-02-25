@@ -1,6 +1,8 @@
 #include <Arduino.h>
 #include <Net.h>
 #include <Modemif.h>
+#include <SPI.h>
+#include <Wire.h>
 
 void setup() {
   // put your setup code here, to run once:
